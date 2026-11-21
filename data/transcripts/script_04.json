@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see peeling itchy skin between your jaws for 10 days."
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Apply clotrimazole cream 1% twice a day for 4 weeks."
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Finish all 4 weeks even if it clears earlier."
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Keep your feet dry."
+  },
+  {
+    "id": 5,
+    "speaker": "doctor",
+    "text": "Change your socks every day."
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "I wear closed shoes all day for work."
+  },
+  {
+    "id": 7,
+    "speaker": "patient",
+    "text": "Is that a problem?"
+  }
+]

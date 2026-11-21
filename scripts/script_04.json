@@ -1,0 +1,25 @@
+{
+  "id": 4,
+  "topic": "athlete's foot",
+  "audio": {"doctor": "audio/audio_04_doctor.m4a", "patient": "audio/audio_04_patient.m4a"},
+  "lines": [
+    {"id": 1, "speaker": "doctor", "text": "I see peeling, itchy skin between your toes, for ten days."},
+    {"id": 2, "speaker": "doctor", "text": "Apply clotrimazole cream one percent twice a day for four weeks."},
+    {"id": 3, "speaker": "doctor", "text": "Finish all four weeks, even if it clears earlier."},
+    {"id": 4, "speaker": "doctor", "text": "Keep your feet dry."},
+    {"id": 5, "speaker": "doctor", "text": "Change your socks every day."},
+    {"id": 6, "speaker": "patient", "text": "I wear closed shoes all day for work."},
+    {"id": 7, "speaker": "patient", "text": "Is that a problem?"}
+  ],
+  "checklist": [
+    {"fact": "peeling itchy skin between the toes", "source_lines": [1]},
+    {"fact": "for ten days", "source_lines": [1]},
+    {"fact": "clotrimazole 1% cream twice a day for four weeks", "source_lines": [2]},
+    {"fact": "finish all four weeks even if it clears earlier", "source_lines": [3]},
+    {"fact": "keep feet dry", "source_lines": [4]},
+    {"fact": "change socks every day", "source_lines": [5]},
+    {"fact": "patient wears closed shoes all day for work", "source_lines": [6]},
+    {"fact": "patient asked whether closed shoes are a problem (not answered)", "source_lines": [7]}
+  ],
+  "must_flag": ["clotrimazole 1% cream twice a day for four weeks"]
+}

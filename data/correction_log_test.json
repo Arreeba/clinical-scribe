@@ -1,0 +1,26 @@
+[
+  {
+    "original": "lauratatine",
+    "suggestion": "loratadine",
+    "candidates": [
+      [
+        "loratadine",
+        0.88
+      ],
+      [
+        "desloratadine",
+        0.75
+      ],
+      [
+        "lurasidone",
+        0.73
+      ]
+    ],
+    "confirmed": null,
+    "method": null,
+    "status": "unreviewed",
+    "script": 9,
+    "line_id": 2,
+    "time": "2026-11-17T23:45:28"
+  }
+]

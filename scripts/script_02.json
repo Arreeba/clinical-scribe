@@ -1,0 +1,23 @@
+{
+  "id": 2,
+  "topic": "eczema on elbows",
+  "audio": {"doctor": "audio/audio_02_doctor.m4a", "patient": "audio/audio_02_patient.m4a"},
+  "lines": [
+    {"id": 1, "speaker": "doctor", "text": "I see dry, itchy patches on both elbows, worse for a month."},
+    {"id": 2, "speaker": "doctor", "text": "Apply mometasone cream point one percent once a day for seven days."},
+    {"id": 3, "speaker": "doctor", "text": "Use a moisturizer after every shower."},
+    {"id": 4, "speaker": "doctor", "text": "Return in two weeks if not better."},
+    {"id": 5, "speaker": "patient", "text": "Hot showers make it worse."},
+    {"id": 6, "speaker": "patient", "text": "Can I use the same cream on my face?"}
+  ],
+  "checklist": [
+    {"fact": "dry itchy patches on both elbows", "source_lines": [1]},
+    {"fact": "worse for one month", "source_lines": [1]},
+    {"fact": "mometasone 0.1% cream once a day for seven days", "source_lines": [2]},
+    {"fact": "moisturizer after every shower", "source_lines": [3]},
+    {"fact": "return in two weeks if not better", "source_lines": [4]},
+    {"fact": "hot showers make it worse", "source_lines": [5]},
+    {"fact": "patient asked about using the cream on the face (not answered)", "source_lines": [6]}
+  ],
+  "must_flag": ["mometasone 0.1% cream once a day for seven days"]
+}

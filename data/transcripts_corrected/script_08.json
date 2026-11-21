@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see a swollen itchy bite on your left forearm since last night takes cetirizine 10mg once a day for 3 days.",
+    "original": "I see a swollen itchy bite on your left forearm since last night takes set resins 10mg once a day for 3 days.",
+    "corrections": [
+      {
+        "original": "set resins",
+        "suggestion": null,
+        "candidates": [],
+        "confirmed": "cetirizine",
+        "method": "memory",
+        "status": "auto_applied",
+        "script": 8,
+        "line_id": 1,
+        "time": "2026-11-07T21:26:20"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Apply a cold compress.",
+    "original": "Apply a cold compress.",
+    "corrections": []
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Do not scratch it.",
+    "original": "Do not scratch it.",
+    "corrections": []
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Return if it spreads.",
+    "original": "Return if it spreads.",
+    "corrections": []
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "It was probably a mosquito.",
+    "original": "It was probably a mosquito.",
+    "corrections": []
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Can I take this with my usual tablets?",
+    "original": "Can I take this with my usual tablets?",
+    "corrections": []
+  }
+]

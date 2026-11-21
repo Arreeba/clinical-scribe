@@ -1,0 +1,23 @@
+{
+  "id": 5,
+  "topic": "scalp dandruff and itching",
+  "audio": {"doctor": "audio/audio_05_doctor.m4a", "patient": "audio/audio_05_patient.m4a"},
+  "lines": [
+    {"id": 1, "speaker": "doctor", "text": "I see an itchy scalp with white flakes, for two months."},
+    {"id": 2, "speaker": "doctor", "text": "Use ketoconazole shampoo two percent twice a week for four weeks."},
+    {"id": 3, "speaker": "doctor", "text": "Leave it on for three minutes before rinsing."},
+    {"id": 4, "speaker": "doctor", "text": "Come back in one month."},
+    {"id": 5, "speaker": "patient", "text": "I have not changed my shampoo recently."},
+    {"id": 6, "speaker": "patient", "text": "Can I wash my hair every day?"}
+  ],
+  "checklist": [
+    {"fact": "itchy scalp with white flakes", "source_lines": [1]},
+    {"fact": "for two months", "source_lines": [1]},
+    {"fact": "ketoconazole 2% shampoo twice a week for four weeks", "source_lines": [2]},
+    {"fact": "leave on for three minutes before rinsing", "source_lines": [3]},
+    {"fact": "return in one month", "source_lines": [4]},
+    {"fact": "patient has not changed shampoo recently", "source_lines": [5]},
+    {"fact": "patient asked whether they can wash hair every day (not answered)", "source_lines": [6]}
+  ],
+  "must_flag": ["ketoconazole 2% shampoo twice a week for four weeks"]
+}

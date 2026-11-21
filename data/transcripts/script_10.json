@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see a rough bump on your right index finger for 4 months."
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Apply salicylic acid paint 17% once a day at night."
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Use it for up to 12 weeks."
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Come back if there is no change."
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "It only hurts when I press on it."
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Can I cover it?"
+  }
+]

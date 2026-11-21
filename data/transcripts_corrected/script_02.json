@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see dry itchy patches on both elbows.",
+    "original": "I see dry itchy patches on both elbows.",
+    "corrections": []
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Worse for a month, apply mometasone Cream 0.1% once a day for 7 days.",
+    "original": "Worse for a month, apply Mo Meta Zone Cream 0.1% once a day for 7 days.",
+    "corrections": [
+      {
+        "original": "Mo Meta Zone",
+        "suggestion": null,
+        "candidates": [],
+        "confirmed": "mometasone",
+        "method": "memory",
+        "status": "auto_applied",
+        "script": 2,
+        "line_id": 2,
+        "time": "2026-11-07T21:26:20"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Use a moisturizer after every shower.",
+    "original": "Use a moisturizer after every shower.",
+    "corrections": []
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Return in 2 weeks if not better.",
+    "original": "Return in 2 weeks if not better.",
+    "corrections": []
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "Hot showers make it worse.",
+    "original": "Hot showers make it worse.",
+    "corrections": []
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Can I use the same cream on my face?",
+    "original": "Can I use the same cream on my face?",
+    "corrections": []
+  }
+]

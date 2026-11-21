@@ -1,0 +1,23 @@
+{
+  "id": 6,
+  "topic": "psoriasis patch on knee",
+  "audio": {"doctor": "audio/audio_06_doctor.m4a", "patient": "audio/audio_06_patient.m4a"},
+  "lines": [
+    {"id": 1, "speaker": "doctor", "text": "I see a thick red scaly patch on your right knee, for six months."},
+    {"id": 2, "speaker": "doctor", "text": "Apply calcipotriol ointment once a day for four weeks."},
+    {"id": 3, "speaker": "doctor", "text": "Finish all four weeks, even if it improves."},
+    {"id": 4, "speaker": "doctor", "text": "See me again after that."},
+    {"id": 5, "speaker": "patient", "text": "It itches, but it does not bleed."},
+    {"id": 6, "speaker": "patient", "text": "Should I cover it with a bandage?"}
+  ],
+  "checklist": [
+    {"fact": "thick red scaly patch on right knee", "source_lines": [1]},
+    {"fact": "for six months", "source_lines": [1]},
+    {"fact": "calcipotriol ointment once a day for four weeks", "source_lines": [2]},
+    {"fact": "finish four weeks even if it improves", "source_lines": [3]},
+    {"fact": "follow up after four weeks", "source_lines": [3, 4]},
+    {"fact": "patient says it itches but does not bleed", "source_lines": [5]},
+    {"fact": "patient asked about covering it with a bandage (not answered)", "source_lines": [6]}
+  ],
+  "must_flag": ["calcipotriol ointment once a day for four weeks"]
+}

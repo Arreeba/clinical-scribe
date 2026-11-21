@@ -1,0 +1,25 @@
+Script 1: expected 6 lines, got 6 | word match 98%
+  wrote: soap | heard: shop
+
+Script 2: expected 6 lines, got 6 | word match 96%
+  wrote: mometasone | heard: mo meta zone
+
+Script 3: expected 6 lines, got 6 | word match 94%
+  wrote: adapalene | heard: a tepelin
+  wrote: 0.1 | heard: point 1
+
+Script 4: expected 7 lines, got 7 | word match 98%
+  wrote: toes | heard: jaws
+
+Script 6: expected 6 lines, got 6 | word match 94%
+  wrote: calcipotriol | heard: a healthy portrayal
+  wrote: itches | heard: is
+
+Script 7: expected 6 lines, got 6 | word match 96%
+  wrote: beach | heard: page
+  wrote: cool | heard: cold
+
+Script 8: expected 7 lines, got 6 | word match 95%
+  wrote: take cetirizine | heard: takes set resins
+
+Script 10: expected 6 lines, got 6 | word match 100%

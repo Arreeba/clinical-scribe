@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see itchy red welts all over your body since this morning.",
+    "original": "I see itchy red welts all over your body since this morning.",
+    "corrections": []
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Take lauratatine, 10mg once a day for 5 days.",
+    "original": "Take lauratatine, 10mg once a day for 5 days.",
+    "corrections": [
+      {
+        "original": "lauratatine",
+        "suggestion": "loratadine",
+        "candidates": [
+          [
+            "loratadine",
+            0.88
+          ],
+          [
+            "desloratadine",
+            0.75
+          ],
+          [
+            "lurasidone",
+            0.73
+          ]
+        ],
+        "confirmed": null,
+        "method": null,
+        "status": "unreviewed",
+        "script": 9,
+        "line_id": 2,
+        "time": "2026-11-17T23:45:28"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Go to emergency if your lips swell or breathing is hard.",
+    "original": "Go to emergency if your lips swell or breathing is hard.",
+    "corrections": []
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Return if it lasts a week.",
+    "original": "Return if it lasts a week.",
+    "corrections": []
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "I ate prawns at dinner last night.",
+    "original": "I ate prawns at dinner last night.",
+    "corrections": []
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Do I need to avoid them?",
+    "original": "Do I need to avoid them?",
+    "corrections": []
+  }
+]

@@ -1,0 +1,58 @@
+script 1 line 1: present 0.71   | I see an itchy red rash on your arms present for two weeks.
+script 1 line 1: two 0.55   | I see an itchy red rash on your arms present for two weeks.
+script 1 line 2: hydrocortisone 0.74   | Use hydrocortisone cream 1% twice a day for a week.
+script 1 line 2: 1 0.53   | Use hydrocortisone cream 1% twice a day for a week.
+script 1 line 5: soap 0.42   | I started a new soap last month.
+script 2 line 1: I 0.65   | I see dry itchy patches on both elbows, worse for a month.
+script 2 line 1: see 0.77   | I see dry itchy patches on both elbows, worse for a month.
+script 2 line 1: worse 0.32   | I see dry itchy patches on both elbows, worse for a month.
+script 2 line 2: Mo 0.27   | Apply Mo-Metazone cream, 0.1% once a day for 7 days.
+script 2 line 2: -Metazone 0.63   | Apply Mo-Metazone cream, 0.1% once a day for 7 days.
+script 2 line 2: cream 0.74   | Apply Mo-Metazone cream, 0.1% once a day for 7 days.
+script 2 line 2: 0 0.65   | Apply Mo-Metazone cream, 0.1% once a day for 7 days.
+script 2 line 4: 2 0.7   | Return in 2 weeks if not better.
+script 2 line 5: Hot 0.45   | Hot showers make it worse.
+script 3 line 1: for 0.56   | I see pimples on your face, mostly on the cheeks for 3 months.
+script 3 line 1: 3 0.64   | I see pimples on your face, mostly on the cheeks for 3 months.
+script 3 line 2: a 0.78   | Apply a teplin gel point 1% at night once a day.
+script 3 line 2: teplin 0.29   | Apply a teplin gel point 1% at night once a day.
+script 3 line 2: point 0.49   | Apply a teplin gel point 1% at night once a day.
+script 3 line 2: once 0.65   | Apply a teplin gel point 1% at night once a day.
+script 3 line 5: A 0.77   | A face wash did not help.
+script 4 line 1: I 0.58   | I see peeling itchy skin between your toes for 10 days.
+script 4 line 1: see 0.58   | I see peeling itchy skin between your toes for 10 days.
+script 4 line 1: itchy 0.51   | I see peeling itchy skin between your toes for 10 days.
+script 4 line 1: toes 0.67   | I see peeling itchy skin between your toes for 10 days.
+script 4 line 2: clodrimazole 0.42   | Apply clodrimazole cream 1% twice a day for 4 weeks.
+script 4 line 2: 1 0.72   | Apply clodrimazole cream 1% twice a day for 4 weeks.
+script 4 line 2: 4 0.76   | Apply clodrimazole cream 1% twice a day for 4 weeks.
+script 4 line 3: 4 0.79   | Finish all 4 weeks even if it clears earlier.
+script 4 line 3: even 0.57   | Finish all 4 weeks even if it clears earlier.
+script 4 line 4: every 0.59   | Keep your feet dry, change your socks every day.
+script 4 line 5: closed 0.47   | I wear closed shoes all day for work.
+script 6 line 1: 6 0.58   | I see a thick red scaly patch on your right knee for 6 months.
+script 6 line 2: calci 0.33   | Apply calci-potriol ointment once a day for 4 weeks.
+script 6 line 2: -potriol 0.49   | Apply calci-potriol ointment once a day for 4 weeks.
+script 6 line 3: even 0.61   | Finish all 4 weeks even if it improves.
+script 6 line 5: It 0.76   | It itches but it does not bleed.
+script 6 line 5: but 0.75   | It itches but it does not bleed.
+script 6 line 6: appendage 0.72   | Should I cover it with appendage?
+script 7 line 1: beach 0.75   | I see red, painful skin on both shoulders from yesterday at the beach.
+script 7 line 2: up 0.6   | Take paracetamol, 500mg up to 4 times a day.
+script 7 line 2: to 0.68   | Take paracetamol, 500mg up to 4 times a day.
+script 7 line 2: 4 0.67   | Take paracetamol, 500mg up to 4 times a day.
+script 7 line 3: cool 0.56   | Use cool compress and drink plenty of water.
+script 8 line 2: Take 0.66   | Take cetirizine 10mg once a day for 3 days.
+script 8 line 2: cetirizine 0.76   | Take cetirizine 10mg once a day for 3 days.
+script 8 line 2: 10mg 0.73   | Take cetirizine 10mg once a day for 3 days.
+script 8 line 2: 3 0.66   | Take cetirizine 10mg once a day for 3 days.
+script 8 line 6: It 0.68   | It was probably a mosquito.
+script 10 line 1: bump 0.65   | I see a rough bump on your right index finger for 4 months.
+script 10 line 1: 4 0.58   | I see a rough bump on your right index finger for 4 months.
+script 10 line 5: It 0.56   | It only hurts when I press on it.
+
+402 words in the 8 dev scripts
+under 0.6: 22 words (5.5%)
+under 0.7: 36 words (9.0%)
+under 0.8: 52 words (12.9%)
+under 0.9: 73 words (18.2%)

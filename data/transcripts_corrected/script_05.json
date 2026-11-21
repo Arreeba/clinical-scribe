@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "Icy energy scalp with white flakes for 2 months.",
+    "original": "Icy energy scalp with white flakes for 2 months.",
+    "corrections": []
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Use ketoconazole shampoo 2% twice a week for 4 weeks.",
+    "original": "Use ketoconazole shampoo 2% twice a week for 4 weeks.",
+    "corrections": []
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Leave it on for 3 minutes before rinsing.",
+    "original": "Leave it on for 3 minutes before rinsing.",
+    "corrections": []
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Come back in 1 month.",
+    "original": "Come back in 1 month.",
+    "corrections": []
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "I have not changed my shampoo recently.",
+    "original": "I have not changed my shampoo recently.",
+    "corrections": []
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Can I wash my hair every day?",
+    "original": "Can I wash my hair every day?",
+    "corrections": []
+  }
+]

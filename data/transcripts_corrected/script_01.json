@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see an itchy red rash on your arms present for two weeks.",
+    "original": "I see an itchy red rash on your arms present for two weeks.",
+    "corrections": []
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Use hydrocortisone cream one percent twice a day for a week.",
+    "original": "Use hydrocortisone cream one percent twice a day for a week.",
+    "corrections": []
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Apply it only on the affected skin.",
+    "original": "Apply it only on the affected skin.",
+    "corrections": []
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Come back in two weeks if it is not better.",
+    "original": "Come back in two weeks if it is not better.",
+    "corrections": []
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "I started a new shop last month.",
+    "original": "I started a new shop last month.",
+    "corrections": []
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Should I keep using it?",
+    "original": "Should I keep using it?",
+    "corrections": []
+  }
+]

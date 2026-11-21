@@ -1,0 +1,23 @@
+{
+  "id": 7,
+  "topic": "mild sunburn on shoulders",
+  "audio": {"doctor": "audio/audio_07_doctor.m4a", "patient": "audio/audio_07_patient.m4a"},
+  "lines": [
+    {"id": 1, "speaker": "doctor", "text": "I see red, painful skin on both shoulders from yesterday at the beach."},
+    {"id": 2, "speaker": "doctor", "text": "Take paracetamol five hundred milligrams up to four times a day."},
+    {"id": 3, "speaker": "doctor", "text": "Use cool compress and drink plenty of water."},
+    {"id": 4, "speaker": "doctor", "text": "Avoid the sun for a week."},
+    {"id": 5, "speaker": "patient", "text": "I do not have any blisters."},
+    {"id": 6, "speaker": "patient", "text": "When can I go swimming again?"}
+  ],
+  "checklist": [
+    {"fact": "red painful skin on both shoulders", "source_lines": [1]},
+    {"fact": "from yesterday at the beach", "source_lines": [1]},
+    {"fact": "paracetamol 500 mg up to four times a day", "source_lines": [2]},
+    {"fact": "cool compress and plenty of water", "source_lines": [3]},
+    {"fact": "avoid the sun for a week", "source_lines": [4]},
+    {"fact": "patient has no blisters", "source_lines": [5]},
+    {"fact": "patient asked when they can swim again (not answered)", "source_lines": [6]}
+  ],
+  "must_flag": ["paracetamol 500 mg up to four times a day"]
+}

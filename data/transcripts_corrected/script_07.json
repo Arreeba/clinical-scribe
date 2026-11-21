@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see red painful skin on both shoulders from yesterday at the page.",
+    "original": "I see red painful skin on both shoulders from yesterday at the page.",
+    "corrections": []
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Take paracetamol 500 milligrams up to four times a day.",
+    "original": "Take paracetamol 500 milligrams up to four times a day.",
+    "corrections": []
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Use cold compress and drink plenty of water.",
+    "original": "Use cold compress and drink plenty of water.",
+    "corrections": []
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Avoid the sun for a week.",
+    "original": "Avoid the sun for a week.",
+    "corrections": []
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "I do not have any blisters.",
+    "original": "I do not have any blisters.",
+    "corrections": []
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "When can I go swimming again?",
+    "original": "When can I go swimming again?",
+    "corrections": []
+  }
+]

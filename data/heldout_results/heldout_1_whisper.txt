@@ -1,0 +1,6 @@
+
+Script 5: expected 6 lines, got 6 | word match 94%
+  wrote: i see an itchy | heard: icy energy
+
+Script 9: expected 6 lines, got 6 | word match 98%
+  wrote: loratadine | heard: lauratatine

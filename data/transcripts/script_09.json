@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see itchy red welts all over your body since this morning."
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Take lauratatine, 10mg once a day for 5 days."
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Go to emergency if your lips swell or breathing is hard."
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Return if it lasts a week."
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "I ate prawns at dinner last night."
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Do I need to avoid them?"
+  }
+]

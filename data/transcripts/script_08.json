@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see a swollen itchy bite on your left forearm since last night takes set resins 10mg once a day for 3 days."
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Apply a cold compress."
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Do not scratch it."
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Return if it spreads."
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "It was probably a mosquito."
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Can I take this with my usual tablets?"
+  }
+]

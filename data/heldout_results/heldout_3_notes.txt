@@ -1,0 +1,5 @@
+Script 5: 6 statements, 3 flagged, 0 problems left, 1858 tokens
+Script 9: 6 statements, 1 flagged, 0 problems left, 1607 tokens
+
+Total tokens: 3465
+Review sheet: data\notes_test\review_sheet.md

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see red painful skin on both shoulders from yesterday at the page."
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Take paracetamol 500 milligrams up to four times a day."
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Use cold compress and drink plenty of water."
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Avoid the sun for a week."
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "I do not have any blisters."
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "When can I go swimming again?"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see peeling itchy skin between your jaws for 10 days.",
+    "original": "I see peeling itchy skin between your jaws for 10 days.",
+    "corrections": []
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Apply clotrimazole cream 1% twice a day for 4 weeks.",
+    "original": "Apply clotrimazole cream 1% twice a day for 4 weeks.",
+    "corrections": []
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Finish all 4 weeks even if it clears earlier.",
+    "original": "Finish all 4 weeks even if it clears earlier.",
+    "corrections": []
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Keep your feet dry.",
+    "original": "Keep your feet dry.",
+    "corrections": []
+  },
+  {
+    "id": 5,
+    "speaker": "doctor",
+    "text": "Change your socks every day.",
+    "original": "Change your socks every day.",
+    "corrections": []
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "I wear closed shoes all day for work.",
+    "original": "I wear closed shoes all day for work.",
+    "corrections": []
+  },
+  {
+    "id": 7,
+    "speaker": "patient",
+    "text": "Is that a problem?",
+    "original": "Is that a problem?",
+    "corrections": []
+  }
+]

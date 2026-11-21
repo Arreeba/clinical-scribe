@@ -1,0 +1,121 @@
+[
+  {
+    "original": "Mo Meta Zone",
+    "suggestion": "mometasone",
+    "candidates": [
+      [
+        "mometasone",
+        0.95
+      ],
+      [
+        "metolazone",
+        0.8
+      ],
+      [
+        "metaxalone",
+        0.71
+      ]
+    ],
+    "confirmed": "mometasone",
+    "method": "spelling_and_phonetic_match",
+    "status": "human_confirmed",
+    "script": 2,
+    "line_id": 2,
+    "time": "2026-11-07T21:24:04"
+  },
+  {
+    "original": "a Tepelin",
+    "suggestion": "atropine",
+    "candidates": [
+      [
+        "atropine",
+        0.71
+      ],
+      [
+        "adapalene",
+        0.68
+      ],
+      [
+        "amitriptyline",
+        0.67
+      ]
+    ],
+    "confirmed": "adapalene",
+    "method": "spelling_and_phonetic_match",
+    "status": "human_confirmed",
+    "script": 3,
+    "line_id": 2,
+    "time": "2026-11-07T21:24:29"
+  },
+  {
+    "original": "a healthy portrayal",
+    "suggestion": null,
+    "candidates": [],
+    "confirmed": "calcipotriol",
+    "method": "typed_by_reviewer",
+    "status": "human_typed",
+    "script": 6,
+    "line_id": 2,
+    "time": "2026-11-07T21:25:30"
+  },
+  {
+    "original": "set resins",
+    "suggestion": "cetirizine",
+    "candidates": [
+      [
+        "cetirizine",
+        0.72
+      ]
+    ],
+    "confirmed": "cetirizine",
+    "method": "spelling_and_phonetic_match",
+    "status": "human_confirmed",
+    "script": 8,
+    "line_id": 1,
+    "time": "2026-11-07T21:25:52"
+  },
+  {
+    "original": "Mo Meta Zone",
+    "suggestion": null,
+    "candidates": [],
+    "confirmed": "mometasone",
+    "method": "memory",
+    "status": "auto_applied",
+    "script": 2,
+    "line_id": 2,
+    "time": "2026-11-07T21:26:20"
+  },
+  {
+    "original": "a Tepelin",
+    "suggestion": null,
+    "candidates": [],
+    "confirmed": "adapalene",
+    "method": "memory",
+    "status": "auto_applied",
+    "script": 3,
+    "line_id": 2,
+    "time": "2026-11-07T21:26:20"
+  },
+  {
+    "original": "a healthy portrayal",
+    "suggestion": null,
+    "candidates": [],
+    "confirmed": "calcipotriol",
+    "method": "memory",
+    "status": "auto_applied",
+    "script": 6,
+    "line_id": 2,
+    "time": "2026-11-07T21:26:20"
+  },
+  {
+    "original": "set resins",
+    "suggestion": null,
+    "candidates": [],
+    "confirmed": "cetirizine",
+    "method": "memory",
+    "status": "auto_applied",
+    "script": 8,
+    "line_id": 1,
+    "time": "2026-11-07T21:26:20"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "FDA-derived generic medication vocabulary",
+  "source": "https://api.fda.gov/drug/label.json?count=openfda.generic_name.exact&limit=1000",
+  "retrieved": "2026-11-07",
+  "count": 923,
+  "notes": [
+    "Most common single-ingredient generic names from US drug labels (openFDA).",
+    "Not a complete drug database, and not validated for clinical decisions.",
+    "Aliases (US vs international names) are general knowledge, not FDA data.",
+    "Used only to suggest spellings to a human reviewer."
+  ]
+}

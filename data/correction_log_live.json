@@ -1,0 +1,123 @@
+[
+  {
+    "original": "Mo-Metazone",
+    "suggestion": "mometasone",
+    "candidates": [
+      [
+        "mometasone",
+        0.95
+      ],
+      [
+        "metolazone",
+        0.8
+      ],
+      [
+        "metaxalone",
+        0.71
+      ]
+    ],
+    "confirmed": "mometasone",
+    "method": "spelling_and_phonetic_match",
+    "status": "human_confirmed",
+    "consultation": 1,
+    "line_id": 2,
+    "doctor_id": 1,
+    "time": "2026-11-11T21:30:58"
+  },
+  {
+    "original": "clodrimazole",
+    "suggestion": "clotrimazole",
+    "candidates": [
+      [
+        "clotrimazole",
+        0.96
+      ],
+      [
+        "letrozole",
+        0.7
+      ],
+      [
+        "calcitriol",
+        0.66
+      ]
+    ],
+    "confirmed": "clotrimazole",
+    "method": "spelling_and_phonetic_match",
+    "status": "human_confirmed",
+    "consultation": 7,
+    "line_id": 2,
+    "doctor_id": 1,
+    "time": "2026-11-15T18:07:32"
+  },
+  {
+    "original": "a depoline",
+    "suggestion": "adapalene",
+    "candidates": [
+      [
+        "adapalene",
+        0.78
+      ],
+      [
+        "adrenaline",
+        0.73
+      ],
+      [
+        "dapsone",
+        0.71
+      ]
+    ],
+    "confirmed": "adapalene",
+    "method": "spelling_and_phonetic_match",
+    "status": "human_confirmed",
+    "consultation": 8,
+    "line_id": 1,
+    "doctor_id": 1,
+    "time": "2026-11-16T00:14:50"
+  },
+  {
+    "original": "a Dappelin",
+    "suggestion": "adapalene",
+    "candidates": [
+      [
+        "adapalene",
+        0.83
+      ],
+      [
+        "adrenaline",
+        0.68
+      ]
+    ],
+    "confirmed": "adapalene",
+    "method": "spelling_and_phonetic_match",
+    "status": "human_confirmed",
+    "consultation": 9,
+    "line_id": 2,
+    "doctor_id": 1,
+    "time": "2026-11-16T00:45:05"
+  },
+  {
+    "original": "calci-potriol",
+    "suggestion": "calcitriol",
+    "candidates": [
+      [
+        "calcitriol",
+        0.92
+      ],
+      [
+        "captopril",
+        0.72
+      ],
+      [
+        "clotrimazole",
+        0.69
+      ]
+    ],
+    "confirmed": "calcipotriol",
+    "method": "typed_by_reviewer",
+    "status": "human_typed",
+    "consultation": 2,
+    "line_id": 2,
+    "doctor_id": 1,
+    "time": "2026-11-16T19:42:13"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "Icy energy scalp with white flakes for 2 months."
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Use ketoconazole shampoo 2% twice a week for 4 weeks."
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Leave it on for 3 minutes before rinsing."
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Come back in 1 month."
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "I have not changed my shampoo recently."
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Can I wash my hair every day?"
+  }
+]

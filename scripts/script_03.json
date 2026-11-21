@@ -1,0 +1,23 @@
+{
+  "id": 3,
+  "topic": "acne on face",
+  "audio": {"doctor": "audio/audio_03_doctor.m4a", "patient": "audio/audio_03_patient.m4a"},
+  "lines": [
+    {"id": 1, "speaker": "doctor", "text": "I see pimples on your face, mostly on the cheeks, for three months."},
+    {"id": 2, "speaker": "doctor", "text": "Apply adapalene gel point one percent at night, once a day."},
+    {"id": 3, "speaker": "doctor", "text": "Use it for six weeks."},
+    {"id": 4, "speaker": "doctor", "text": "Come back for a review after that."},
+    {"id": 5, "speaker": "patient", "text": "A face wash did not help."},
+    {"id": 6, "speaker": "patient", "text": "Will the gel make my skin dry?"}
+  ],
+  "checklist": [
+    {"fact": "pimples on the face, mostly cheeks", "source_lines": [1]},
+    {"fact": "for three months", "source_lines": [1]},
+    {"fact": "adapalene 0.1% gel once a day at night", "source_lines": [2]},
+    {"fact": "use for six weeks", "source_lines": [3]},
+    {"fact": "return for review after the six weeks", "source_lines": [3, 4]},
+    {"fact": "patient tried a face wash that did not help", "source_lines": [5]},
+    {"fact": "patient asked whether the gel makes skin dry (not answered)", "source_lines": [6]}
+  ],
+  "must_flag": ["adapalene 0.1% gel once a day at night"]
+}

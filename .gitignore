@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+
+.env
+.streamlit/secrets.toml
+
+# Databases
+*.db
+*.sqlite3
+
+# Recordings and scratch files
+audio/
+archive/
+archive_tests/
+evidence/

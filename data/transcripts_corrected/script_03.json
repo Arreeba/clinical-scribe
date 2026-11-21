@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see pimples on your face mostly on the cheeks for 3 months.",
+    "original": "I see pimples on your face mostly on the cheeks for 3 months.",
+    "corrections": []
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Apply adapalene Gel Point 1% at night once a day.",
+    "original": "Apply a Tepelin Gel Point 1% at night once a day.",
+    "corrections": [
+      {
+        "original": "a Tepelin",
+        "suggestion": null,
+        "candidates": [],
+        "confirmed": "adapalene",
+        "method": "memory",
+        "status": "auto_applied",
+        "script": 3,
+        "line_id": 2,
+        "time": "2026-11-07T21:26:20"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Use it for 6 weeks.",
+    "original": "Use it for 6 weeks.",
+    "corrections": []
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Come back for a review after that.",
+    "original": "Come back for a review after that.",
+    "corrections": []
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "A face wash did not help.",
+    "original": "A face wash did not help.",
+    "corrections": []
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Will the gel make my skin dry?",
+    "original": "Will the gel make my skin dry?",
+    "corrections": []
+  }
+]

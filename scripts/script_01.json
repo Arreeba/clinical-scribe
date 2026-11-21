@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "topic": "contact dermatitis",
+  "audio": {"doctor": "audio/audio_01_doctor.m4a", "patient": "audio/audio_01_patient.m4a"},
+  "lines": [
+    {"id": 1, "speaker": "doctor", "text": "I see an itchy red rash on your arms, present for two weeks."},
+    {"id": 2, "speaker": "doctor", "text": "Use hydrocortisone cream one percent twice a day for a week."},
+    {"id": 3, "speaker": "doctor", "text": "Apply it only on the affected skin."},
+    {"id": 4, "speaker": "doctor", "text": "Come back in two weeks if it is not better."},
+    {"id": 5, "speaker": "patient", "text": "I started a new soap last month."},
+    {"id": 6, "speaker": "patient", "text": "Should I keep using it?"}
+  ],
+  "checklist": [
+    {"fact": "itchy red rash on arms", "source_lines": [1]},
+    {"fact": "present for two weeks", "source_lines": [1]},
+    {"fact": "hydrocortisone 1% cream twice a day for a week", "source_lines": [2]},
+    {"fact": "apply only on the affected skin", "source_lines": [3]},
+    {"fact": "return in two weeks if not better", "source_lines": [4]},
+    {"fact": "patient started a new soap last month", "source_lines": [5]},
+    {"fact": "patient asked whether to keep using the soap (not answered)", "source_lines": [6]}
+  ],
+  "must_flag": ["hydrocortisone 1% cream twice a day for a week"]
+}

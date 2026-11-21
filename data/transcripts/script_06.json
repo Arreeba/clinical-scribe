@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see a thick red scaly patch on your right knee for six months."
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Apply a healthy portrayal ointment once a day for four weeks."
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Finish all four weeks even if it improves."
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "See me again after that."
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "It is but it does not bleed."
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Should I cover it with a bandage?"
+  }
+]

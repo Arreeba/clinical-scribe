@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see dry itchy patches on both elbows."
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Worse for a month, apply Mo Meta Zone Cream 0.1% once a day for 7 days."
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Use a moisturizer after every shower."
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Return in 2 weeks if not better."
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "Hot showers make it worse."
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Can I use the same cream on my face?"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "id": 8,
+  "topic": "swollen itchy insect bite",
+  "audio": {"doctor": "audio/audio_08_doctor.m4a", "patient": "audio/audio_08_patient.m4a"},
+  "lines": [
+    {"id": 1, "speaker": "doctor", "text": "I see a swollen, itchy bite on your left forearm since last night."},
+    {"id": 2, "speaker": "doctor", "text": "Take cetirizine ten milligrams once a day for three days."},
+    {"id": 3, "speaker": "doctor", "text": "Apply a cold compress."},
+    {"id": 4, "speaker": "doctor", "text": "Do not scratch it."},
+    {"id": 5, "speaker": "doctor", "text": "Return if it spreads."},
+    {"id": 6, "speaker": "patient", "text": "It was probably a mosquito."},
+    {"id": 7, "speaker": "patient", "text": "Can I take this with my usual tablets?"}
+  ],
+  "checklist": [
+    {"fact": "swollen itchy bite on left forearm", "source_lines": [1]},
+    {"fact": "since last night", "source_lines": [1]},
+    {"fact": "cetirizine 10 mg once a day for three days", "source_lines": [2]},
+    {"fact": "apply a cold compress", "source_lines": [3]},
+    {"fact": "do not scratch", "source_lines": [4]},
+    {"fact": "return if it spreads", "source_lines": [5]},
+    {"fact": "patient thinks it was probably a mosquito", "source_lines": [6]},
+    {"fact": "patient asked about taking it with usual tablets (not answered)", "source_lines": [7]}
+  ],
+  "must_flag": ["cetirizine 10 mg once a day for three days"]
+}

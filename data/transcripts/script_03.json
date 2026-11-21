@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see pimples on your face mostly on the cheeks for 3 months."
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Apply a Tepelin Gel Point 1% at night once a day."
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Use it for 6 weeks."
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "Come back for a review after that."
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "A face wash did not help."
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Will the gel make my skin dry?"
+  }
+]

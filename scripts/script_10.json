@@ -1,0 +1,23 @@
+{
+  "id": 10,
+  "topic": "wart on finger",
+  "audio": {"doctor": "audio/audio_10_doctor.m4a", "patient": "audio/audio_10_patient.m4a"},
+  "lines": [
+    {"id": 1, "speaker": "doctor", "text": "I see a rough bump on your right index finger, for four months."},
+    {"id": 2, "speaker": "doctor", "text": "Apply salicylic acid paint seventeen percent once a day at night."},
+    {"id": 3, "speaker": "doctor", "text": "Use it for up to twelve weeks."},
+    {"id": 4, "speaker": "doctor", "text": "Come back if there is no change."},
+    {"id": 5, "speaker": "patient", "text": "It only hurts when I press on it."},
+    {"id": 6, "speaker": "patient", "text": "Can I cover it?"}
+  ],
+  "checklist": [
+    {"fact": "rough bump on right index finger", "source_lines": [1]},
+    {"fact": "for four months", "source_lines": [1]},
+    {"fact": "salicylic acid 17% paint once a day at night", "source_lines": [2]},
+    {"fact": "use for up to twelve weeks", "source_lines": [3]},
+    {"fact": "return if no change", "source_lines": [4]},
+    {"fact": "patient says it only hurts when pressed", "source_lines": [5]},
+    {"fact": "patient asked whether it can be covered (not answered)", "source_lines": [6]}
+  ],
+  "must_flag": ["salicylic acid 17% paint once a day at night"]
+}

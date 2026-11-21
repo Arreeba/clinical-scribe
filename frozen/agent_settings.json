@@ -1,0 +1,15 @@
+{
+  "auto_apply_confirmed": true,
+  "top_k": 3,
+  "min_score": 0.65,
+  "words_before_medicine": [
+    "apply", "use", "using", "take", "takes", "taking", "put", "rub", "start", "prescribe"
+  ],
+  "words_after_medicine": [
+    "cream", "gel", "ointment", "lotion", "shampoo", "paint", "tablet", "tablets",
+    "capsule", "capsules", "solution", "spray", "drops", "foam", "paste"
+  ],
+  "dose_words": [
+    "percent", "milligrams", "mg", "once", "twice", "daily", "times"
+  ]
+}

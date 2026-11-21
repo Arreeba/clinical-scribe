@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "speaker": "doctor",
+    "text": "I see a thick red scaly patch on your right knee for six months.",
+    "original": "I see a thick red scaly patch on your right knee for six months.",
+    "corrections": []
+  },
+  {
+    "id": 2,
+    "speaker": "doctor",
+    "text": "Apply calcipotriol ointment once a day for four weeks.",
+    "original": "Apply a healthy portrayal ointment once a day for four weeks.",
+    "corrections": [
+      {
+        "original": "a healthy portrayal",
+        "suggestion": null,
+        "candidates": [],
+        "confirmed": "calcipotriol",
+        "method": "memory",
+        "status": "auto_applied",
+        "script": 6,
+        "line_id": 2,
+        "time": "2026-11-07T21:26:20"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "speaker": "doctor",
+    "text": "Finish all four weeks even if it improves.",
+    "original": "Finish all four weeks even if it improves.",
+    "corrections": []
+  },
+  {
+    "id": 4,
+    "speaker": "doctor",
+    "text": "See me again after that.",
+    "original": "See me again after that.",
+    "corrections": []
+  },
+  {
+    "id": 5,
+    "speaker": "patient",
+    "text": "It is but it does not bleed.",
+    "original": "It is but it does not bleed.",
+    "corrections": []
+  },
+  {
+    "id": 6,
+    "speaker": "patient",
+    "text": "Should I cover it with a bandage?",
+    "original": "Should I cover it with a bandage?",
+    "corrections": []
+  }
+]
